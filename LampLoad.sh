@@ -14,3 +14,4 @@ tar -xzvf latest.tar.gz
 sudo tasksel install lamp-server -qq
 
 echo "Everything should now be installed"
+echo "If there are any errors, please contact me. contact@alexweekshomelab.com"
