@@ -4,7 +4,7 @@
 # Installs following dependancies
 sudo apt install tasksel php-curl php-gd php-mbstring php-xml php-xmlrpc -qq
 
-# Installs Wordpress into the
+# Installs Wordpress into the Desired Location
 read -p "Enter Location You Want Wordpress Installed at (Default /var/www/html) "  location
 cd $location
 wget https://wordpress.org/latest.tar.gz
